@@ -15,3 +15,7 @@ def multiply_numbers(a: float, b: float) -> float:
     :return: Добуток чисел
     """
     return a * b
+
+# Функція для віднімання двох чисел
+def subtract_numbers(a, b):
+    return a - b
